@@ -1,0 +1,2 @@
+- [x] Ubah background di resources/views/layouts/app.blade.php menjadi warna coklat muda
+- [x] Ubah background menjadi gradasi dari coklat muda ke coklat tua
